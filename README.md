@@ -1,5 +1,6 @@
 # vagrant_ubuntu18_python
 A simple vagrant file that create ubuntu 18 with python 3.6. 
+
 Make sure you have Vagrant installed (you can grab the installation for your OS at https://www.vagrantup.com/)
 Clone this repository locally (or alternatively, just download the Vagrantfile)
 Go into the directory that has the Vagrantfile you just downloaded and run vagrant up
